@@ -1,4 +1,4 @@
-// Web servers
+// Web servers in go lang
 //
 // Package http serves HTTP requests using any value that implements http.Handler:
 //
